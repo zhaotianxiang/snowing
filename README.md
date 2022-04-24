@@ -3,16 +3,14 @@
 ## Getting Start
 
 ### 1. Run
-```angular2html
+```shell
 yarn electron:serve
-
-or 
-
+or
 npm run electron:serve
 ```
 
 ### 2.Build
-```angular2html
+```shell
 yarn electron:build
 or
 npm run electron:build
